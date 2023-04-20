@@ -20,7 +20,7 @@
                 <div class = "row">
                     <div class ="col-md-6">
 
-                            <button type="button" class="btn btn-primary">Học viện Công nghệ Massachusetts được viết tắt là M.I.T (Massachusetts Institute of Technology)</button>
+                            <button type="button" class="btn btn-primary"> được viết tắt là M.I.T (Massachusetts Institute of Technology)</button>
                         
                     </div>
                     
